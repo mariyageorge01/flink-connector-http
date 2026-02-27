@@ -50,7 +50,7 @@ The HTTP sink connector supports the Flink streaming API.
 In order to change submission batch size use `flink.connector.http.sink.request.batch.size` property. For example:
 
 ### Sink Connector options 
-These option are specified on the builder using the setProperty method.
+These options are specified on the builder using the setProperty method.
 
 | Option                                                  | Required | Description/Value                                                                                                                                                                                                                                |
 |---------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
